@@ -31,7 +31,7 @@ All notable changes to this project will be documented in this file.
 - 
 
 ### Removed
-- 
+- Live Demo and Source Code buttons from featured projects section
 
 ### Fixed
 - 
